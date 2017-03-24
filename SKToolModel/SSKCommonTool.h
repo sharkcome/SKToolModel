@@ -9,5 +9,6 @@
 #ifndef SSKCommonTool_h
 #define SSKCommonTool_h
 
+#define Screen_Width  [[UIScreen mainScreen]bounds].size.width
 
 #endif /* SSKCommonTool_h */
